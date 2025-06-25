@@ -1,6 +1,6 @@
-# Music streaing website
+# Music streaming website
 This project was developed a year ago for my final project in a web development class I had. When submitted, everything was working correctly, but now some functions have depreciated so I have decided to update it.
-## If you are interested, please check out my *original extensive documentation* [Here](https://github.com/johannes-ll/project-list/blob/main/Dokumentation%20slutprojekt%20-%20Musikstreamingtj%C3%A4nst.pdf)
+## If you are interested, please check out my *original extensive documentation [here](https://github.com/johannes-ll/project-list/blob/main/Dokumentation%20slutprojekt%20-%20Musikstreamingtj%C3%A4nst.pdf)*
 ## Changes
 ### Changed DB
 I originally used mysql for my database. I changed this to mongodb as the original implementation was janky and I feel that mongodb is more important to show knowledge about. To do this I needed to remake some auth.js code, update server.js slightly and change playlist.js to fit with mongodb. I am happy with these changes.
